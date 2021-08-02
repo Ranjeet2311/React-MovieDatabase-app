@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React--Movie-Database-app/static/css/main.b6555e91.chunk.css",
-    "main.js": "/React--Movie-Database-app/static/js/main.b07cb3f7.chunk.js",
-    "main.js.map": "/React--Movie-Database-app/static/js/main.b07cb3f7.chunk.js.map",
-    "runtime-main.js": "/React--Movie-Database-app/static/js/runtime-main.70d33c87.js",
-    "runtime-main.js.map": "/React--Movie-Database-app/static/js/runtime-main.70d33c87.js.map",
-    "static/css/2.0bca3e4c.chunk.css": "/React--Movie-Database-app/static/css/2.0bca3e4c.chunk.css",
-    "static/js/2.389642e9.chunk.js": "/React--Movie-Database-app/static/js/2.389642e9.chunk.js",
-    "static/js/2.389642e9.chunk.js.map": "/React--Movie-Database-app/static/js/2.389642e9.chunk.js.map",
-    "index.html": "/React--Movie-Database-app/index.html",
-    "static/css/2.0bca3e4c.chunk.css.map": "/React--Movie-Database-app/static/css/2.0bca3e4c.chunk.css.map",
-    "static/css/main.b6555e91.chunk.css.map": "/React--Movie-Database-app/static/css/main.b6555e91.chunk.css.map",
-    "static/js/2.389642e9.chunk.js.LICENSE.txt": "/React--Movie-Database-app/static/js/2.389642e9.chunk.js.LICENSE.txt"
+    "main.css": "/React-MovieDatabase-app/static/css/main.b6555e91.chunk.css",
+    "main.js": "/React-MovieDatabase-app/static/js/main.b07cb3f7.chunk.js",
+    "main.js.map": "/React-MovieDatabase-app/static/js/main.b07cb3f7.chunk.js.map",
+    "runtime-main.js": "/React-MovieDatabase-app/static/js/runtime-main.8fd2caa2.js",
+    "runtime-main.js.map": "/React-MovieDatabase-app/static/js/runtime-main.8fd2caa2.js.map",
+    "static/css/2.0bca3e4c.chunk.css": "/React-MovieDatabase-app/static/css/2.0bca3e4c.chunk.css",
+    "static/js/2.389642e9.chunk.js": "/React-MovieDatabase-app/static/js/2.389642e9.chunk.js",
+    "static/js/2.389642e9.chunk.js.map": "/React-MovieDatabase-app/static/js/2.389642e9.chunk.js.map",
+    "index.html": "/React-MovieDatabase-app/index.html",
+    "static/css/2.0bca3e4c.chunk.css.map": "/React-MovieDatabase-app/static/css/2.0bca3e4c.chunk.css.map",
+    "static/css/main.b6555e91.chunk.css.map": "/React-MovieDatabase-app/static/css/main.b6555e91.chunk.css.map",
+    "static/js/2.389642e9.chunk.js.LICENSE.txt": "/React-MovieDatabase-app/static/js/2.389642e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.70d33c87.js",
+    "static/js/runtime-main.8fd2caa2.js",
     "static/css/2.0bca3e4c.chunk.css",
     "static/js/2.389642e9.chunk.js",
     "static/css/main.b6555e91.chunk.css",
