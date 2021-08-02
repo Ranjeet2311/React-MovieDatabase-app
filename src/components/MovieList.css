@@ -1,0 +1,49 @@
+.movie-list-display {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  grid-template-rows: auto auto;
+  /* grid-auto-flow: dense; */
+  gap: 1rem;
+  justify-items: center;
+  align-items: center;
+}
+
+.single-movie {
+  cursor: pointer;
+  position: relative;
+}
+.single-movie img {
+  width: 12rem;
+}
+.single-movie img:hover {
+  transform: scale(1.1);
+  border: 1px solid black;
+  transition: all 0.4s ease-out;
+}
+
+.overlay {
+  position: absolute;
+  background-color: rgb(24, 24, 24);
+  width: 100%;
+  opacity: 0;
+  bottom: 0;
+  font-size: 0.6rem;
+  padding: 0.5rem;
+  text-align: center;
+  height: -100px;
+  color: white;
+  transform: scale(1);
+}
+
+.overlay h2 {
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-shadow: 1px 1px 1px black;
+}
+
+.single-movie:hover .overlay {
+  transition: all 0.7s ease-out;
+  opacity: 1;
+  height: 80px;
+  transform: scale(1.1);
+}

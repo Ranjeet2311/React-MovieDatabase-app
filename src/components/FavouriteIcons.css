@@ -1,0 +1,10 @@
+svg {
+  border-radius: 50%;
+  border: 1px solid white;
+  padding: 0.2rem;
+  margin: 0rem 1rem;
+}
+svg:hover {
+  color: black;
+  background-color: white;
+}
