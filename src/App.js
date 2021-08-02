@@ -92,7 +92,7 @@ function App() {
   const [textSearch, setTextSearch] = useState(" ");
 
   const getMovieRequest = async (textSearch) => {
-    const API_URL = `http://www.omdbapi.com/?s=${textSearch}&apikey=8c4ef43`;
+    const API_URL = `https://www.omdbapi.com/?s=${textSearch}&apikey=8c4ef43`;
     // ${textSearch}
 
     const response = await fetch(API_URL);
